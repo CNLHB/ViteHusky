@@ -33,9 +33,10 @@
     "eslint-plugin-vue": "^9.17.0",
     "husky": "^8.0.3",
     "jsdom": "^22.1.0",
-    "lint-staged": "^14.0.1",
+    "lint-staged": "^13.2.0",
     "prettier": "^3.0.3",
     "vite": "^4.4.9",
+    "vite-plugin-eslint": "^1.8.1",
     "vitest": "^0.34.4"
   },
   "config": {
