@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "@libUtils/*": ["src/lib/utils/*"]
+    }
+  },
+  "include": [
+    "src/**/*.vue",
+    "src/**/*.js" // 使用 tsconfig.json 则改为 "src/**/*.ts"
+  ]
+}
